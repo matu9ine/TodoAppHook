@@ -1,0 +1,6 @@
+export * from './App'
+export * from './Footer'
+export * from './NewTaskForm'
+export * from './Task'
+export * from './TaskFilter'
+export * from './TaskList'
